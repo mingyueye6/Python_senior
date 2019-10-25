@@ -14,3 +14,6 @@ class Samle():
 
 with Samle() as sample:
     sample.do_something()
+
+
+
